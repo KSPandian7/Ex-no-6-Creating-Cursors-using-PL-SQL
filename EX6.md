@@ -1,5 +1,5 @@
 # Ex. No: 6 Creating Cursors using PL/SQL
-
+### DATE : 07/09/2023
 ### AIM: To create a cursor using PL/SQL.
 
 ### Steps:
@@ -65,13 +65,16 @@ CALL DisplayEmployees();
 ### Output:
 
 ##### Output 1:
-![OUTPUT](/result1.png)
+![result1](https://github.com/KSPandian7/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/113496887/c2788046-5218-4fc7-9c6e-55c1e560f5ed)
+
 
 ##### Output 2:
-![OUTPUT](/result2.png)
+![result2](https://github.com/KSPandian7/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/113496887/b8a5b81b-46a9-4111-8f32-ec381febaa36)
+
 
 ##### Output 3:
-![OUTPUT](/result3.png)
+![result3](https://github.com/KSPandian7/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/113496887/48f3a740-db0c-4769-ae5f-eade487d65fc)
+
 
 ### Result:
 THE PROGRAM HAS BEEN IMPLEMENTED SUCCESSFULLY.
